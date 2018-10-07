@@ -1,0 +1,1 @@
+Bu repoda olan tüm örnekler Þadi Evren Þeker'in programlama giriþ adlý oynatma listesindeki örneklerdir.
